@@ -2,7 +2,7 @@
 
 --------------
 
-This is a project I completed as part of JetBrains Academy's Python Developer track.
+This is the 1st project I completed as part of JetBrains Academy's Python Developer track.
 
 The program prints an empty 3x3 tic-tac-toe grid, asks a player to enter the coordinates of his or her next move (row 1, column 1 at top left), validates the move and analyzes gameplay. The game ends when one player wins.
 
