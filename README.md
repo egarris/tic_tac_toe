@@ -16,5 +16,5 @@ Topics covered include:
 - GitHub
 - IDE
 
-*Completed 12/23/2020*
+*Completed 12/13/2020*
 https://www.jetbrains.com/academy/
